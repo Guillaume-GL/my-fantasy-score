@@ -1,0 +1,2 @@
+class Pronostic < ApplicationRecord
+end
